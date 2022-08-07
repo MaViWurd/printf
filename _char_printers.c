@@ -29,4 +29,4 @@ int _print_str(va_list args)
 		_putchar(str[count]);
 	}
 	return (count);
-
+}

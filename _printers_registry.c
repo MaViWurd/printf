@@ -30,4 +30,4 @@ printer _get_printer(const char *specifier)
 	}
 
 	return (printers[i]);
-
+}
