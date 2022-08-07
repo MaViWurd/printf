@@ -100,4 +100,4 @@ unsigned int convert_ubase(buffer_t *output, unsigned long int num, char *base,
 	_memcpy(output, &digit, 1);
 
 	return (ret);
-
+}
